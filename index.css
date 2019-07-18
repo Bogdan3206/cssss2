@@ -1,0 +1,18 @@
+.test {
+  background: rgb(32, 116, 46);
+  font-size: 36px;
+  color: red;
+  text-align: center;
+  text-transform: lowercase;
+}
+html {
+  font-size: 10px;
+}
+span {
+  font-size: 3rem;
+  text-indent: 100px;
+}
+
+span > span {
+  text-transform: capitalize;
+}
