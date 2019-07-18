@@ -1,18 +1,48 @@
+body {
+  margin: 0;
+}
+div {
+  /* display: inline-block;*/
+  margin: 0 auto;
+}
 .test {
-  background: rgb(32, 116, 46);
-  font-size: 36px;
-  color: red;
-  text-align: center;
-  text-transform: lowercase;
-}
-html {
-  font-size: 10px;
-}
-span {
-  font-size: 3rem;
-  text-indent: 100px;
+  background: 50px blueviolet;
+
+  border: 10px solid red;
+  width: 50px;
+  height: 50px;
+  border-style: outset;
 }
 
-span > span {
-  text-transform: capitalize;
+.test1 {
+  background: 50px blue;
+
+  border: 10px solid red;
+  width: 50px;
+  height: 50px;
+  border-style: double;
+}
+.test3 {
+  background: 50px green;
+
+  border: 10px solid red;
+  width: 50px;
+  height: 50px;
+  border-style: solid;
+}
+.test4 {
+  background: 50px greenyellow;
+
+  border: 10px solid red;
+  width: 50px;
+  height: 50px;
+  border-style: dotted;
+}
+.test5 {
+  background: 50px grey;
+
+  border: 10px solid red;
+  width: 50px;
+  height: 50px;
+  border-style: dashed;
 }
