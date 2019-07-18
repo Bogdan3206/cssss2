@@ -1,48 +1,59 @@
 body {
   margin: 0;
+  background-image: url(https://img.anews.com/media/gallery/102996838/508274142.jpg);
 }
 div {
-  /* display: inline-block;*/
+  padding: 200px;
   margin: 0 auto;
 }
 .test {
   background: 50px blueviolet;
 
   border: 10px solid red;
-  width: 50px;
-  height: 50px;
+  width: 300px;
+  height: 300px;
+  padding: 30px;
   border-style: outset;
+  background-image: url(https://img.anews.com/media/gallery/102996838/508274142.jpg);
 }
 
 .test1 {
   background: 50px blue;
 
   border: 10px solid red;
-  width: 50px;
-  height: 50px;
+  width: 300px;
+  height: 300px;
+  padding: 30px;
   border-style: double;
+  background-image: url(https://img.anews.com/media/gallery/102996838/508274142.jpg);
 }
 .test3 {
   background: 50px green;
 
   border: 10px solid red;
-  width: 50px;
-  height: 50px;
+  width: 300px;
+  height: 300px;
+  padding: 30px;
   border-style: solid;
+  background-image: url(https://img.anews.com/media/gallery/102996838/508274142.jpg);
 }
 .test4 {
-  background: 50px greenyellow;
+  background: 300px greenyellow;
 
   border: 10px solid red;
-  width: 50px;
-  height: 50px;
+  width: 300px;
+  height: 300px;
+  padding: 30px;
   border-style: dotted;
+  background-image: url(https://img.anews.com/media/gallery/102996838/508274142.jpg);
 }
 .test5 {
   background: 50px grey;
 
   border: 10px solid red;
-  width: 50px;
-  height: 50px;
+  width: 300px;
+  height: 300px;
+  padding: 30px;
   border-style: dashed;
+  background-image: url(https://img.anews.com/media/gallery/102996838/508274142.jpg);
 }
